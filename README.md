@@ -1,3 +1,5 @@
+# This repo is no longer updated, nor used. It can be removed. 
+
 # VeriSafe-Assets
 List of known assets for use in the Dex or TipGram Bot
 
